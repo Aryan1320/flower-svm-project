@@ -1,5 +1,5 @@
-# Flower Classification using HOG and SVM
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Aryan1320/flower-svm-project/blob/main/Flower_Classification_HOG_SVM.ipynb)
 ## Overview
 This project performs multi-class flower classification using:
 - HOG (Histogram of Oriented Gradients)
